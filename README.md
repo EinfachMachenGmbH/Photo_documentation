@@ -8,8 +8,6 @@ In this repo we provide a straightforward solution for mobile photo documentatio
 
 ## How It Works
 1. At first import the solution using the .zip File in this repo.
-   <img src="https://i.imgur.com/uSU55iQ.png" align="right"
-     alt="Import solution" width="120" height="178">
 2. The Flow and the Power App should now be visible in your environment
 4. Edit the flow. You need to reconfigure the connections and assign them to your Outlook & SharePoint Online Connection
 5. If you want to use more metadata in your document library, you can add more information here in the json. You also need to edit this in the app later, if you are making any changes in the json.
