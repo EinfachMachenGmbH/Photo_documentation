@@ -1,7 +1,7 @@
 ## Photo_documentation
 In this repo we provide a straightforward solution for mobile photo documentation using power apps &amp; power automate. There are basically two components important for making this solution work.
 
-## Overview
+## Solution Overview
 www.youtube.com
 
 ## Components 
@@ -19,7 +19,7 @@ www.youtube.com
 6. Test the app in power apps studio. You should receive an e-mail with photos to your inbox
 7. The flow gets triggered when there is a new E-Mail and stores all attachments to your Document library
 
-## Video Step-By-Step-Guide
+## Step-By-Step-Implementation-Guide
 www.youtube.com
 
 ## Contact us for issues
