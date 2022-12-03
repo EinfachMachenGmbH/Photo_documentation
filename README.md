@@ -19,6 +19,9 @@ https://youtu.be/OTrhJdXEaKo
 6. Test the app in power apps studio. You should receive an e-mail with photos to your inbox
 7. The flow gets triggered when there is a new E-Mail and stores all attachments to your Document library
 
+## Donate if you like the app
+https://paypal.me/einfmachen
+ 
 ## Step-By-Step-Implementation-Guide
 https://www.youtube.com/watch?v=5rU2UOOBuI8
 
