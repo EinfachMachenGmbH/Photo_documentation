@@ -20,8 +20,8 @@ https://youtu.be/OTrhJdXEaKo
 7. The flow gets triggered when there is a new E-Mail and stores all attachments to your Document library
 
 ## Donate if you like the app
-https://paypal.me/einfmachen
- 
+https://www.paypal.com/donate/?hosted_button_id=7FZBKUK5Z3C88
+
 ## Step-By-Step-Implementation-Guide
 https://www.youtube.com/watch?v=5rU2UOOBuI8
 
