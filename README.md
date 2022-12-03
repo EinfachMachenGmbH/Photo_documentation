@@ -2,7 +2,7 @@
 In this repo we provide a straightforward solution for mobile photo documentation using power apps &amp; power automate. There are basically two components important for making this solution work.
 
 ## Solution Overview
-www.youtube.com
+https://youtu.be/OTrhJdXEaKo
 
 ## Components 
 1. power app - The power app "photo documentation" is used to take the photos and send them to an email inbox, e.g. photo@mycompany.com, along with a JSON with metadata in the email text. The JSON can be customized in the app AND flow to match your own SharePoint document library columns.
@@ -20,7 +20,7 @@ www.youtube.com
 7. The flow gets triggered when there is a new E-Mail and stores all attachments to your Document library
 
 ## Step-By-Step-Implementation-Guide
-www.youtube.com
+https://www.youtube.com/watch?v=5rU2UOOBuI8
 
 ## Contact us for issues
 info@ema-sh.de
